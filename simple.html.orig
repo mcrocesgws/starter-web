@@ -2,6 +2,12 @@
 <!--
 
    copyright 2019 training
+   Adding chnage before rebasing conflicts
+<<<<<<< HEAD
+   Some changes form master branch
+=======
+   These changes are from the feature bigtrouble
+>>>>>>> fb adding some trouble to sample.html
 
 
 -->
@@ -9,10 +15,10 @@
 
 <head>
 <<<<<<< HEAD
-	<title>A Very Respectfull Web Site</title>
+	<title>Confliting chnages on Master</title>
 =======
-	<title>A Great Web Site</title>
->>>>>>> realwork
+	<title>Lot of Trouble</title>
+>>>>>>> fb adding some trouble to sample.html
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -24,22 +30,17 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- Content Goes Here Filler -->
 		<p>
 <<<<<<< HEAD
-			I'm not sure waht will go here, but I'm 
-			sure ite will be nice.
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Linda Croce 2014</p>
+			Just stuff now...
 =======
-			Some content Stuff
+			Just nothin' but trouble
+>>>>>>> fb adding some trouble to sample.html
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Michael Croce 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
