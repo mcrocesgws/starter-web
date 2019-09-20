@@ -5,6 +5,8 @@ This repository is for showing how Git and GitHub work.
 Adding a line for rebase example, then more 
 changes from myfeature branch too.
 
+Update emergency fix after stashing. 
+
 ## Introduction
 
 This is an example to show diffenrt parts of git
