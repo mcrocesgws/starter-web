@@ -22,3 +22,5 @@ Sample website with plenty of files for demos
 How to comments
 
 ### Copyright
+
+2019 Training. All rights reserved. 
